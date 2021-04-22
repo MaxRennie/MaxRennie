@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @MaxRennie
+- 👀 I’m interested in Web and Mobile Development
+- 🌱 I’m currently learning Javascript, and OOP
+- 📫 How to reach me: maxrenniedev@gmail.com
